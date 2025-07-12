@@ -146,3 +146,12 @@ ts
 Copy
 Edit
 @HostBinding('class.active') isActive = true;
+
+
+
+Summary
+
+Class	@Component, @Directive, @Pipe, @NgModule	Define what the class represents
+Property	@Input, @Output, @ViewChild, @HostBinding	Metadata for class properties
+Method	@HostListener	React to DOM or custom events
+Parameter	@Inject	Control what gets injected
